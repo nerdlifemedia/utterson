@@ -2,8 +2,6 @@
 
 Utterson is your friendly frontend/web editor for [Jekyll][jekyll] sites. Gabriel John Utterson is a loyal friend of Dr. Jekyll in the story: [Strange Case of Dr Jekyll and Mr Hyde][strange-case]
 
-# Development Discontinued
-
     PLEASE NOTICE!
     This project is current not in active development.
     PR's is still accepted and merged.
@@ -19,7 +17,7 @@ If you just want to see what it looks like, there is a bunch of [screenshots][sc
 It's very simple to get started and try Utterson:
 
 ```shell
-git clone https://github.com/gabriel-john/utterson.git
+git clone https://github.com/nerdlifemedia/utterson.git
 cd utterson
 bundle install --path vendor/bundle
 bundle exec rackup
